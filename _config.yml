@@ -16,6 +16,8 @@ share:
   fb_appid: 000000000000
 
 
+future: true 
+
 enableTags: true
 tagarray: []
 
