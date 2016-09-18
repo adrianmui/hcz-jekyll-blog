@@ -16,9 +16,14 @@
     "icon": "fa-desktop"
   },
   {
+    "text": "Blog",
+    "url": "/posts",
+    "icon": "fa-comments"
+  },
+  {
     "text": "Resume",
     "url": "https://resume.creddle.io/resume/9jeiknc38t2",
-    "icon": "fa-graduation-cap",
+    "icon": "fa-file-text",
     "layout": "post"
   },
   {

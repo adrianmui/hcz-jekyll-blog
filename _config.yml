@@ -6,7 +6,7 @@ github: https://github.com/adrianmui
 about: Full Stack Developer
 
 baseurl: ""
-url: "https://adrianmui.github.io"
+url: "adrianmui.me"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
@@ -16,7 +16,6 @@ share:
   fb_appid: 000000000000
 
 
-future: true 
 
 enableTags: true
 tagarray: []
