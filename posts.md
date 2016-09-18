@@ -4,6 +4,8 @@ title: Blog
 permalink: /posts/
 ---
 
+Probably just going to make a medium for this..
+
 <div class="well">
     <div class="list-group">
       {% for post in paginator.posts %}
