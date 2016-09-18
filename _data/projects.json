@@ -1,30 +1,45 @@
 [
 	{
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"name": "Better Home",
+		"image": "https://camo.githubusercontent.com/dfa0cbe64d837876b0c78f7b7a06891e02964a18/687474703a2f2f692e696d6775722e636f6d2f38576f42454f4f2e706e67",
+		"url": "https://boiling-eyrie-10872.herokuapp.com/",
+		"date": "Aug 2014",
+		"tags": ["OmniAuth","API", "Rails", "Ruby"]
 	},
 	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
+		"name": "My Area",
+		"image": "https://camo.githubusercontent.com/2826e37cb7b168bf8e0e084cc881408eff67ca08/687474703a2f2f692e696d6775722e636f6d2f343961597a454a2e6a7067",
+		"url": "https://safe-everglades-60087.herokuapp.com/",
 		"date": "May 2014",
-		"tags": ["Android","PHP"]
+		"tags": ["Rails", "Ruby", "API", "Geokit"]
 	},
 	{
-		"name": "Cool project 3",
-		"image": "placeholder.jpg",
-		"url": "#",
+		"name": "Danebook",
+		"image": "http://i.imgur.com/nCoukOk.png",
+		"url": "https://daneb00k.herokuapp.com/",
 		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
+		"tags": ["Rails","Ruby","Cookies"]
 	},
 	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
+		"name": "Star Wars Elo Rankings",
+		"image": "http://i.imgur.com/1afAbWU.png",
+		"url": "https://starwars-elo.herokuapp.com/",
 		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
+		"tags": ["API","Rails", "Ruby", "Cookies"]
+	},
+	{
+		"name": "Snake",
+		"image": "https://camo.githubusercontent.com/559144213c5eddd378fe34f2cddf1038e96d714c/687474703a2f2f696d6775722e636f6d2f56586f6d4451772e706e67",
+		"url": "https://adrianmui.github.io/project_game_center_browser/",
+		"date": "Oct 2016",
+		"tags": ["Javascript","jQuery", "Games"]
+	},
+	{
+		"name": "Tetris",
+		"image": "https://s11.postimg.org/y77rejalv/Screen_Shot_2016_09_17_at_11_57_40_PM.png",
+		"url": "https://adrianmui.github.io/project_tetris_js/",
+		"date": "Oct 2016",
+		"tags": ["Javascript","jQuery", "Games"]
 	}
 
 ]

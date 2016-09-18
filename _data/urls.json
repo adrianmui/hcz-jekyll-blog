@@ -17,19 +17,13 @@
   },
   {
     "text": "Resume",
-    "url": "#",
+    "url": "https://resume.creddle.io/resume/9jeiknc38t2",
     "icon": "fa-graduation-cap",
     "layout": "post"
   },
   {
     "text": "Github",
-    "url": "",
+    "url": "https://github.com/adrianmui",
     "icon": "fa-github"
-  },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
   }
 ]

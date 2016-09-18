@@ -1,18 +1,22 @@
 [
   {
     "icon": "fa-facebook",
-    "link": ""
+    "link": "https://www.facebook.com/mui.adrian"
   },
   {
-    "icon": "fa-twitter",
-    "link": ""
+    "icon": "fa-github",
+    "link": "https://github.com/adrianmui"
   },
   {
     "icon": "fa-linkedin",
-    "link": ""
+    "link": "https://www.linkedin.com/in/adrian-mui-61b07656"
   },
   {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "icon": "fa-spotify",
+    "link": "https://open.spotify.com/user/12172900111/playlist/4GwOcWMUi0paH2fGDiMwx1"
+  },
+  {
+    "icon": "fa-twitch",
+    "link": "https://twitch.tv"
   }
 ]

@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<h3>Hey, I'm Adrian.  </h3>
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
+I'm a passionate Full Stack Developer, redditor, and expert gamer. I mainly code with Ruby and work with the Ruby on Rails Framework. Most of all, I like making stuff that works! I believe in a healthy medium that connects users(intuitive interface) with an intelligent backend. I was previously enrolled in the University of Illinois at Urbana Champaign in Engineering and CS, currently in the Viking Code School's 1000+ hour Immersive Software Engineering program. Loving every minute of it.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+Check out what we do here at <a href='https://www.vikingcodeschool.com/'>Viking Code School</a>.
+We're pretty cool.

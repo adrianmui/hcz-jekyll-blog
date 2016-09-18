@@ -1,9 +1,9 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+title: Adrian Mui
+description: My Personal Website
+author: Adrian Mui
+logo: https://scontent.xx.fbcdn.net/v/t1.0-9/13256416_10209746053826842_4045384163178443016_n.jpg?oh=ef49f80d2664f11dafca67339259dba9&oe=5870872A
+github: https://github.com/adrianmui
+about: Full Stack Developer
 
 baseurl: ""
 url: "http://aboutashu.com/hcz-jekyll-blog"
