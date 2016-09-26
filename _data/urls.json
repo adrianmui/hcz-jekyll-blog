@@ -18,7 +18,8 @@
   {
     "text": "Blog",
     "url": "/posts",
-    "icon": "fa-comments"
+    "icon": "fa-comments",
+    "layout": "post"
   },
   {
     "text": "Resume",

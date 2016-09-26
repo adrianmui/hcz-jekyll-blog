@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Week 11: Guide to Rails APP(inc)"
-date:   2016-09-26 08:53:01 -0400
+title:  "Week 11: Guide to Rails APP"
+date:   2016-09-25 00:00:00 -0400
 categories: vcs
 ---
 
@@ -37,7 +37,8 @@ Edit your readme. include your name, maybe a description of your project. Commit
 git commit -a -m "initial commit, edit readme.txt"
 git push
 ```
-## Setting up Rails (with postgreSQL)
+
+<h2>Setting up Rails with postgreSQL</h2>
 
 If you intend on deploying to Heroku, make sure to start the database with postgreSQL. If not, prepare yourself for heaps of heroku/deploy bugs later on.
 
