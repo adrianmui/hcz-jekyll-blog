@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Week 11: Guide to Rails APP(inc)"
+date:   2016-09-26 08:53:01 -0400
+categories: vcs
+---
+
+*(in progress)*
+
+# Getting Started on a Rails Project
+
+It's always hard getting started on a project. You don't really know where to begin. There's a million things to setup. What are those things? You don't really know. It's been awhile since you last started your own project. Well, since I'm in the process of doing that myself, I might as well write about it.
+
+Here are a few things I've decided for the project layout:
+
+* Coded in Ruby using Rails Framework
+* To be Setup in PostgreSQL for Heroku-Deployment
+* Devise Authentication (User/Password Confirm, Salted Passwords)
+* Sendgrid + Delayed Jobs (email confirms, working dynos)
+* (Optional) AWS + Paperclip, storing images over Amazon Server
+* (Optional) Seeds to unload on empty database
+* (Semi-Optional) Unit Testing with Rspec, Shoulda, and FactoryGirl
+* (Situational) Figaro for private API keys in ENV file
+* Bootstrap - Intuitive Interface is a **MUST**.
+* git, git, git started.
+
+## Starting Point
+
+Creating your repository on github. I personally like to do it from Github's web interface. Type this in your terminal.
+
+```
+git clone https://github.com/username/your_repo.git
+```
+Edit your readme. include your name, maybe a description of your project. Commit. Push.
+
+```
+git commit -a -m "initial commit, edit readme.txt"
+git push
+```
+## Setting up Rails (with postgreSQL)
+
+If you intend on deploying to Heroku, make sure to start the database with postgreSQL. If not, prepare yourself for heaps of heroku/deploy bugs later on.
+
+```
+rails new ~/directory/myApp --database=postgresql
+```
+
+
+
