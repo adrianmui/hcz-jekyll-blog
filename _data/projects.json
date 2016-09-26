@@ -15,10 +15,10 @@
 	},
 	{
 		"name": "Danebook",
-		"image": "http://i.imgur.com/nCoukOk.png",
+		"image": "https://camo.githubusercontent.com/ececcb8e17450d2b340dfea2ad54f7c394875ab3/687474703a2f2f692e696d6775722e636f6d2f514e55474231352e706e67",
 		"url": "https://daneb00k.herokuapp.com/",
 		"date": "June 2014",
-		"tags": ["Rails","Ruby","Cookies"]
+		"tags": ["Rails","Ruby", "Cookies", "Javascript", "jQuery"]
 	},
 	{
 		"name": "Star Wars Elo Rankings",
