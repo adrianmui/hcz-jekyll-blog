@@ -46,5 +46,35 @@ If you intend on deploying to Heroku, make sure to start the database with postg
 rails new ~/directory/myApp --database=postgresql
 ```
 
+<h2>API, Figaro </h2>
+
+If you intend on accessing private apis, you need to keep your api keys and ids in a safe place. One way of keeping your 'secrets' safe is by using environment variables. To do this, it's best to use the figaro gem.
+
+In your Gemfile, include:
+
+```
+gem figaro
+```
+In your Console:
+
+```
+bundle install
+bundle exec figaro install (this creates your application.yml and adds it to .gitignore, which ignores the file when commiting to github)
+```
+
+In your application.yml, store your variable keys:
+
+```
+  SUPER_SECRET_API_KEY: "1234567HARAMBE89"
+```
+Make sure your secrets.yml is doing the same:
+
+```
+  production/development do:
+    SUPER_SECRET_API_KEY: <%= ENV["SUPER_SECRET_API_KEY"] %>
+```
+
+Now, whenever you'd like you can access the key with ```Rails.applications.secrets.SUPER_SECRET_API_KEY```
+
 
 
