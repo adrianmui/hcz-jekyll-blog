@@ -7,11 +7,11 @@
 		"tags": ["OmniAuth","API", "Rails", "Ruby"]
 	},
 	{
-		"name": "My Area",
-		"image": "https://camo.githubusercontent.com/2826e37cb7b168bf8e0e084cc881408eff67ca08/687474703a2f2f692e696d6775722e636f6d2f343961597a454a2e6a7067",
-		"url": "https://safe-everglades-60087.herokuapp.com/",
-		"date": "Jul 2016",
-		"tags": ["Rails", "Ruby", "API", "Geokit"]
+		"name": "Fideligard Yahoo Stocks Sim",
+		"image": "http://i.imgur.com/JC1qT11.png",
+		"url": "http://adrianmui.me/assignment_fideligard_spa/",
+		"date": "Oct 2016",
+		"tags": ["Javascript","ui.router", "Angularjs"]
 	},
 	{
 		"name": "Danebook",
@@ -21,11 +21,11 @@
 		"tags": ["Rails","Ruby", "Cookies", "jQuery"]
 	},
 	{
-		"name": "Star Wars Elo Rankings",
-		"image": "http://i.imgur.com/1afAbWU.png",
-		"url": "https://starwars-elo.herokuapp.com/",
-		"date": "Aug 2016",
-		"tags": ["API","Rails", "Ruby", "Cookies"]
+		"name": "My Area",
+		"image": "https://camo.githubusercontent.com/2826e37cb7b168bf8e0e084cc881408eff67ca08/687474703a2f2f692e696d6775722e636f6d2f343961597a454a2e6a7067",
+		"url": "https://safe-everglades-60087.herokuapp.com/",
+		"date": "Jul 2016",
+		"tags": ["Rails", "Ruby", "API", "Geokit"]
 	},
 	{
 		"name": "Snake",
@@ -42,13 +42,12 @@
 		"tags": ["Javascript","jQuery", "Games"]
 	},
 	{
-		"name": "Fideligard Stocks Sim",
-		"image": "http://i.imgur.com/JC1qT11.png",
-		"url": "http://adrianmui.me/assignment_fideligard_spa/",
-		"date": "Oct 2016",
-		"tags": ["Javascript","ui.router", "Angular", "API"]
+		"name": "Star Wars Elo Rankings",
+		"image": "http://i.imgur.com/1afAbWU.png",
+		"url": "https://starwars-elo.herokuapp.com/",
+		"date": "Aug 2016",
+		"tags": ["API","Rails", "Ruby", "Cookies"]
 	}
-
 	
 
 ]
